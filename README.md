@@ -1,4 +1,4 @@
-# Camilla Barnett thesis Sytax code 
+# Camilla Barnett thesis do-files 
 
-Stata syntax code used for camilla barnetts doctoral thesis 
-each analysis chapter has a branch wich contains the syntax files used 
+Stata syntax used for Camilla Barnetts doctoral thesis, 
+each analysis chapter has a branch which contains the syntax files used 
