@@ -1,4 +1,4 @@
-# thesis
+# thesis - chapter 4 creating measures 
 Stata syntax code used for camilla barnett doctoral thesis chapter 4 
 
 cb_sei.do creates gender specific sei scores using bhps data 
